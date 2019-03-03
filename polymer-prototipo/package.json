@@ -2,7 +2,8 @@
   "name": "polymer-prototipo",
   "dependencies": {
     "@polymer/paper-input": "^3.0.1",
-    "@polymer/polymer": "^3.0.0"
+    "@polymer/polymer": "^3.0.0",
+    "flexible-rating": "^3.0.3"
   },
   "devDependencies": {
     "@polymer/test-fixture": "^4.0.2",
